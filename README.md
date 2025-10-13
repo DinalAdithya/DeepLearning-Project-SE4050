@@ -6,10 +6,10 @@ This project implements and compares deep learning models for predicting lithium
 ## 👥 Team Members
 | Role | Name | Student ID | Responsibilities |
 |------|------|------------|------------------|
-| Group Leader | Adithya D | IT21330278 | Data Visualization, Dense Model, CNN Model, Evaluation, Report |
-| Member 2 | Denuwan P.M.K | IT22229434 | LSTM Model Implementation |
+| Group Leader | Adithya D | IT21330278 | Data Visualization, Linear Regression (Baseline), Dense Model, Evaluation, Report, Data Analysis |
+| Member 2 | Denuwan P.M.K | IT22229434 |  CNN Model |
 | Member 3 | Deshan P.H.P | IT22552556 | GRU Model Implementation |
-| Member 4 | Vithana D.T.M | IT22150998 | Data Analysis & Report Support |
+| Member 4 | Vithana D.T.M | IT22150998 | LSTM Model Implementation |
 
 ## 🎯 Problem Statement
 Predict future battery capacity values based on historical capacity measurements to monitor State of Health (SOH) and enable proactive maintenance for lithium-ion batteries.
