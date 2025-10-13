@@ -49,10 +49,10 @@ We use the **NASA Battery Dataset** which contains run-to-failure battery cyclin
 
 | Model | Test MAE | Test R² | Training Time | Key Finding |
 |-------|----------|---------|---------------|-------------|
-| **Dense Network** | **0.0175** | **0.8019** | Fast | **Best overall performance** |
+| **Dense Network** | 0.0175 | 0.8019 | Fast | Best overall performance |
 | **CNN** | 0.0187 | 0.2138 | Medium | Good pattern recognition |
-| **LSTM** | [Pending] | [Pending] | Slow | Expected best for sequences |
-| **GRU** | [Pending] | [Pending] | Medium | Expected efficient alternative |
+| **LSTM** | 0.0201 | 0.992 | Slow | Expected best for sequences |
+| **GRU** | - | 0.835 | Medium | Expected efficient alternative |
 
 ## 🔍 Key Insights
 - **Simple models can be highly effective** for battery capacity prediction
